@@ -1,0 +1,13 @@
+# macOS 系统文件
+.DS_Store
+
+# Python 运行产物
+__pycache__/
+*.py[cod]
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+
+# 会话临时上传的截图（根目录 image_*.png，icon.png 在 skills/ 下不受影响）
+/image_*.png
